@@ -14,7 +14,7 @@
  
 
 ### Ссылки на резюме  
-- [резюме]((https://github.com/DrakinaAlena/About_me/blob/main/Certificates/CV_DA_Drakina_Alena.pdf) 
+- [резюме](https://github.com/DrakinaAlena/About_me/blob/main/Certificates/CV_DA_Drakina_Alena.pdf) 
 - [профиль на LinkedIn](www.linkedin.com/in/Drakina-Alena)  
 
 :arrow_up:[к оглавлению](https://github.com/DrakinaAlena/Data_Analyst/blob/main/README.md)

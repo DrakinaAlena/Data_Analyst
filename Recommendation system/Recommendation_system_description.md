@@ -13,8 +13,8 @@
 - Получить рекомендательную таблицу
 
 **Использованные библиотеки и модули**
-pandas
-numpy
-itertools
-collections
+pandas,
+numpy,
+itertools,
+collections,
 psycopg2

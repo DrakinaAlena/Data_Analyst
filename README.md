@@ -17,4 +17,4 @@
 - [резюме](ссылка на резюме)  
 - [профиль на LinkedIn](www.linkedin.com/in/Drakina-Alena)  
 
-:arrow_up:[к оглавлению](https://ссылка/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/DrakinaAlena/Data_Analyst/blob/main/README.md)
